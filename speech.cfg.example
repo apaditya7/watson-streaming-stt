@@ -1,4 +1,4 @@
 [auth]
-apikey = <APIKEY>
+apikey = <"aD87hgJlc_0RWs6ENhVOGZDxhUchiXaT25i-yVyt4Pzk">
 # Modify region based on where you provisioned your stt instance
-region = us-south
+region = au-syd
